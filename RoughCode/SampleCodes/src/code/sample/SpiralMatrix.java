@@ -1,3 +1,5 @@
+package code.sample;
+
 public class SpiralMatrix {
     enum Direction {LEFT, DOWN, RIGHT, TOP}
 
