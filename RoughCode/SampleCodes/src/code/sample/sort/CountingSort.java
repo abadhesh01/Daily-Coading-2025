@@ -1,4 +1,4 @@
-package code.sample;
+package code.sample.sort;
 
 import java.util.Arrays;
 import java.util.List;

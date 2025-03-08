@@ -1,4 +1,4 @@
-package code.sample;
+package code.sample.problem;
 
 public class SpiralMatrix {
     enum Direction {LEFT, DOWN, RIGHT, TOP}
@@ -30,6 +30,7 @@ public class SpiralMatrix {
                     spiralMatrix[top][col] = ++number;
                 }
                 direction = Direction.DOWN;
+                continue;
             }
 
             if (direction == Direction.DOWN) {
@@ -37,6 +38,7 @@ public class SpiralMatrix {
                     spiralMatrix[row][right] = ++number;
                 }
                 direction = Direction.LEFT;
+                continue;
             }
 
             if (direction == Direction.LEFT) {
@@ -44,6 +46,7 @@ public class SpiralMatrix {
                     spiralMatrix[bottom][col] = ++number;
                 }
                 direction = Direction.TOP;
+                continue;
             }
 
             if (direction == Direction.TOP) {
@@ -52,6 +55,7 @@ public class SpiralMatrix {
                 }
                 direction = Direction.RIGHT;
                 left++;
+                continue;
             }
         }
 
