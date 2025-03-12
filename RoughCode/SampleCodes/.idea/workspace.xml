@@ -40,6 +40,7 @@
     "Application.RotateImage2.executor": "Run",
     "Application.SpiralMatrix (1).executor": "Run",
     "Application.SpiralMatrix.executor": "Run",
+    "Application.SubsetsOfAString.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -54,7 +55,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PermutationsOfAString">
+  <component name="RunManager" selected="Application.SubsetsOfAString">
     <configuration name="FillMatrixByRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="code.sample.problem.FillMatrixByRecursion" />
       <module name="SampleCodes" />
@@ -107,11 +108,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpiralMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="21" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="code.sample.problem.SpiralMatrix" />
+    <configuration name="SubsetsOfAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="code.sample.problem.SubsetsOfAString" />
       <module name="SampleCodes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="code.sample.problem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -129,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SubsetsOfAString" />
         <item itemvalue="Application.PermutationsOfAString" />
         <item itemvalue="Application.FillMatrixByRecursion" />
         <item itemvalue="Application.RotateImage2" />
         <item itemvalue="Application.RotateImage" />
-        <item itemvalue="Application.SpiralMatrix" />
       </list>
     </recent_temporary>
   </component>
