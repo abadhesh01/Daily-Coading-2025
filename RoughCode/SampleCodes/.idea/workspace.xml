@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f347955-5d61-4a40-afbf-36b513a3d83c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2f347955-5d61-4a40-afbf-36b513a3d83c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,31 +28,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.CountingSort.executor": "Run",
-    "Application.FillMatrixByRecursion.executor": "Run",
-    "Application.PermutationString.executor": "Run",
-    "Application.PermutationsOfAString.executor": "Run",
-    "Application.RotateImage.executor": "Run",
-    "Application.RotateImage2.executor": "Run",
-    "Application.SpiralMatrix (1).executor": "Run",
-    "Application.SpiralMatrix.executor": "Run",
-    "Application.SubsetsOfAString.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/abadh/OneDrive/Desktop/DailyCodeTracking/RoughCode/SampleCodes",
-    "onboarding.tips.debug.path": "C:/Users/abadh/OneDrive/Desktop/DailyCodeTracking/RoughCode/SampleCodes/src/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CountingSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FillMatrixByRecursion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PermutationString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PermutationsOfAString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotateImage.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotateImage2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SpiralMatrix (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.SpiralMatrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SubsetsOfAString.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/abadh/OneDrive/Desktop/DailyCodeTracking/RoughCode/SampleCodes&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/abadh/OneDrive/Desktop/DailyCodeTracking/RoughCode/SampleCodes/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.SubsetsOfAString">
     <configuration name="FillMatrixByRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="code.sample.problem.FillMatrixByRecursion" />
